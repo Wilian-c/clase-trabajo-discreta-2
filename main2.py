@@ -1,0 +1,1 @@
+print("ya quiero irme profe, apruebeme porfas")
